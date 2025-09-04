@@ -1,151 +1,106 @@
-## Hi there 👋
+<!--
+Credits and references used in this README:
 
-<h1 align="center">Hi, I'm Maximus 👋</h1>
-<p align="center">
-  <b>Growth Lead at NextWork</b> · 145,000 students learning cloud + AI · Focus: cloud, AI, machine learning
-</p>
+1) Layout ideas and section inspiration:
+   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
 
-<p align="center">
-  <a href="#projects">Projects</a> ·
-  <a href="#skills">Skills</a> ·
-  <a href="#stats--activity">Stats</a> ·
-  <a href="#contact">Contact</a>
-</p>
+2) Skill icons (SVG badges):
+   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
+
+3) GitHub stats card:
+   https://github.com/anuraghazra/github-readme-stats
+-->
+
+# 🐐 Maximus Soares Demo Account
+**`Growth Lead at NextWork`** 
+
+## About Me
+- I build, ship, and tell the story in public.
+- Grew NextWorks social media to 250K+ followers in one year.
+- Help teach 145,000+ students cloud, AI, and tech skills
+
+
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
+
+**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+
 
 ---
 
-## TL;DR
-- Building and shipping in public. I care about real users, real metrics, real impact.
-- Comfortable across AWS, Docker, CI/CD, Terraform. I wire ideas to outcomes fast.
-- Looking to collaborate with teams shipping serious product.
-
----
-
-## Brand story
-I help people learn by doing. At NextWork we design hands-on projects that move someone from stuck to skilled. My work sits where growth, product, and engineering meet. I like tight feedback loops, automated pipelines, and measurable wins.
-
----
-
-## Projects
-Fun to browse. Easy to evaluate. Each card has the what, why, and how.
+## Projects - showcase
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/<your_username>/<repo_one>">
-        <img src="https://placehold.co/800x450?text=Project+One+Screenshot" alt="Project One screenshot" />
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="DeepSeek AI Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
       </a>
-      <br>
-      <b>Project One</b> · <i>AWS, Terraform, CI/CD</i>
-      <br>
-      <sub>One sentence impact statement. What it shipped, who used it, and the metric it moved.</sub>
-      <br>
-      <a href="https://github.com/<your_username>/<repo_one>">Code</a> •
-      <a href="https://your-demo-link.example">Demo</a> •
-      <a href="https://your-case-study.example">Case Study</a>
+      <br/>
+      <b>DeepSeek AI Chatbot</b><br/>
+      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <br/>
+      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
-    <td width="50%">
-      <a href="https://github.com/<your_username>/<repo_two>">
-        <img src="https://placehold.co/800x450?text=Project+Two+GIF" alt="Project Two gif" />
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="CI/CD Pipeline Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
       </a>
-      <br>
-      <b>Project Two</b> · <i>Docker, GitHub Actions</i>
-      <br>
-      <sub>One sentence on scale, speed, or reliability. Include a number if possible.</sub>
-      <br>
-      <a href="https://github.com/<your_username>/<repo_two>">Code</a> •
-      <a href="https://your-demo-link.example">Demo</a> •
-      <a href="https://your-postmortem.example">Writeup</a>
+      <br/>
+      <b>Cloud CI/CD Pipeline</b><br/>
+      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <br/>
+      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/<your_username>/<repo_three>">
-        <img src="https://placehold.co/800x450?text=Project+Three+Diagram" alt="Project Three diagram" />
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
+             alt="VPC Networking Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
       </a>
-      <br>
-      <b>Project Three</b> · <i>Serverless, Event-driven</i>
-      <br>
-      <sub>One sentence on the architecture and the tradeoff you chose on purpose.</sub>
-      <br>
-      <a href="https://github.com/<your_username>/<repo_three>">Code</a> •
-      <a href="https://your-loom-link.example">Video</a> •
-      <a href="https://your-blog-link.example">Design Doc</a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/<your_username>/<repo_four>">
-        <img src="https://placehold.co/800x450?text=Project+Four+Dashboard" alt="Project Four dashboard" />
-      </a>
-      <br>
-      <b>Project Four</b> · <i>Data, ML, BigQuery</i>
-      <br>
-      <sub>One sentence on the insight or model lift. Add a chart in the repo readme.</sub>
-      <br>
-      <a href="https://github.com/<your_username>/<repo_four>">Code</a> •
-      <a href="https://your-demo-link.example">Demo</a> •
-      <a href="https://your-notebook-link.example">Notebook</a>
+      <br/>
+      <b>Secure AWS VPC</b><br/>
+      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <br/>
+      <sub>Tags: Networking, AWS, Security</sub>
     </td>
   </tr>
 </table>
 
-<details>
-<summary>How I evaluate projects</summary>
+---
 
-- Problem and user. What pain did this solve and for who.
-- Constraints. Latency, cost, data shape, security, team size.
-- Architecture. Why this stack. What I explicitly did not do.
-- Results. Deployed, adopted, and measured.
-</details>
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
 
 ---
 
-## Skills
-- **Cloud**: AWS core and data services
-- **DevOps**: Docker, CI/CD, Terraform
-- **Backend**: pick your language stack here
-- **Data**: SQL, analytics flows, basic ML productionization
-- **Work style**: docs first, metrics driven, automate where it counts
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
+- [**Contact**](mailto:maximus@nextwork.org)
 
-Badges if you like them:
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational)
-![Docker](https://img.shields.io/badge/DevOps-Docker-informational)
-![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-informational)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-informational)
-
----
-
-## Stats + activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your_username>&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your_username>&hide_border=true" alt="GitHub streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=<your_wakatime_username>&hide_border=true" alt="WakaTime stats" />
-</p>
-
-<details>
-<summary>Setup notes</summary>
-
-- Replace `<your_username>` and optionally add `&theme=transparent`.
-- WakaTime needs an account and public profile. Set `username` to your WakaTime handle.
-- If images rate limit, fork the stats repos or self host.
-</details>
-
----
-
-## Contact
-- Portfolio: https://<your-portfolio>.com
-- LinkedIn: https://www.linkedin.com/in/<your-handle>
-- Email: <your-email@example.com>
-
----
-
-## Hiring pipeline
-If you are hiring for roles that value shipping, data, and thoughtful systems, I would love to talk. Short intro plus a link to the problem you want solved works best.
-
+<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
